@@ -1,4 +1,3 @@
-### Hi there 👋
 
 👋 Hello, there! I'm Bhavya Tiwari.  
 👨‍💻 Passionate developer and tech enthusiast.  
